@@ -65,4 +65,5 @@ while ligado:
                 continue
 
     if opcao_int == 5:
+        print("Voce saiu do programa")
         ligado = False
